@@ -1,4 +1,4 @@
-S// Abdou Digital² V2 - secure HotPlayer API proxy (Node.js 18+)
+// Abdou Digital² V2 - secure HotPlayer API proxy (Node.js 18+)
 // Keep HOTPLAYER_API_KEY in environment variables; never put it in index.html.
 const http = require('node:http');
 const fs = require('node:fs');
